@@ -1,2 +1,2 @@
-# mhs_interno_dev
+# Developer projects
 Meu repositório de projetos
